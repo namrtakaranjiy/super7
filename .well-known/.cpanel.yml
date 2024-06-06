@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/octopusa/public_html/
+    - export DEPLOYPATH=/home/octopusa/
     - /bin/cp * $DEPLOYPATH
    
